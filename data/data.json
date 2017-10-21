@@ -1,0 +1,23 @@
+data =
+[
+  {
+    "name": "Peter",
+    "age": 32,
+    "photo": "data/images/Peter.jpg"
+  },
+  {
+    "name": "John",
+    "age": 41,
+    "photo": "data/images/John.jpg"
+  },
+  {
+    "name": "Rick",
+    "age": 46,
+    "photo": "data/images/Rick.jpg"
+  },
+  {
+    "name": "Jack",
+    "age": 43,
+    "photo": "data/images/Jack.jpg"
+  }
+]
